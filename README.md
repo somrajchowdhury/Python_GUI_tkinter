@@ -8,8 +8,8 @@
 
 ## Buttons in tkinter
 
-> **Check out :** [tkinterBUTTONS1.py]()
+> **Check out :** [tkinterBUTTONS1.py](https://github.com/somrajchowdhury/Python_GUI_tkinter/blob/master/tkinterBUTTONS1.py)
 
-
+Learn and code out most of the button types in tkinter.
 > **Code Output :**         
-> ![](https://github.com/somrajchowdhury/PythonCodes/blob/master/Outputs/ObjectCreation.png "Object Creation")
+> ![tkinter buttons1](https://github.com/somrajchowdhury/Python_GUI_tkinter/blob/master/img/tkinterButtons1.png "tkinter buttons1")
