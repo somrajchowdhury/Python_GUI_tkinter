@@ -27,11 +27,6 @@
 
 <h1 align="center">tkinter GUI</h1>
 
-<div align="center">
-  <sub>The little collection of python GUI programs. Built with ❤︎ by
-  <a href="https://github.com/somrajchowdhury">Somraj Chowdhury</a> 
-</div>
-
 # Python GUI programming using tkinter
 
 > tkinter is a standard Python GUI package.
