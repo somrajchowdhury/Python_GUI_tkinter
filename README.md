@@ -8,7 +8,7 @@
 
 ## Buttons in tkinter
 
-> **Check out :** [tkinterBUTTONS1.py](https://github.com/somrajchowdhury/)
+> **Check out :** [tkinterBUTTONS1.py]()
 
 
 > **Code Output :**         
