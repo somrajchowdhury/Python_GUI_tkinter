@@ -74,3 +74,12 @@ The add book window is the home window of this application with a full backgroun
 4. A Clear button that lets you clear all the form fields after a book is added to the database successfully 
 
 Following shows the complete working of the *Book Management System Application*
+
+<div align="center">
+  <a href="https://github.com/somrajchowdhury/WebLab/blob/master/Program%201%20-%20JSCalculator.html">
+    <img src="https://github.com/somrajchowdhury/WebLab/blob/master/Output/JSCalculator.gif"
+      alt="JSCalci" />
+  </a>
+</div>
+
+![calc.gif](https://github.com/somrajchowdhury/WebLab/blob/master/Output/JSCalculator.gif)
