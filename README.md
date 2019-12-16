@@ -76,10 +76,9 @@ The add book window is the home window of this application with a full backgroun
 Following shows the complete working of the *Book Management System Application*
 
 <div align="center">
-  <a href=#>
-    <img src="https://i.imgur.com/EkdUSVP.gifv"
-      alt="bms working" />
-  </a>
+   <video width="320" height="240" controls>
+      <source src=# type="video/webm">
+   </video> 
 </div>
 
 [(Back to top)](#program-list)
