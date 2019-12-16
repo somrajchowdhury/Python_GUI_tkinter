@@ -62,7 +62,6 @@ This Book Management System is a CRUD (Create, Read, Update and Delete) applicat
 ### Screenshots :camera: :
 
 | ![1.1 - Add Book Window.png](https://i.imgur.com/t6e4sq9.png) | ![1.1 - Add Book Window.png](https://i.imgur.com/t6e4sq9.png) |
-|:--:| :--:|
 | **_1.1 - Add Book Window_** | **_1.1 - Add Book Window_** |
 | ![1.1 - Add Book Window.png](https://i.imgur.com/t6e4sq9.png) | ![1.1 - Add Book Window.png](https://i.imgur.com/t6e4sq9.png) |
 | **_1.1 - Add Book Window_** | **_1.1 - Add Book Window_** |
