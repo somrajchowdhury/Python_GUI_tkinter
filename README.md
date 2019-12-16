@@ -51,7 +51,7 @@ Learn and code out most of the button types in tkinter.
 
 ### Developed using :
 
-- Python 3.7.0
+- Python 3.7.0 <img src='https://i.imgur.com/QbZcwbk.png' width=10>
 - tKinter (Tcl/Tk 8.6)
 - SQLite3 3.21.0
 
