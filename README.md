@@ -82,4 +82,4 @@ Following shows the complete working of the *Book Management System Application*
   </a>
 </div>
 
-![calc.gif](https://github.com/somrajchowdhury/WebLab/blob/master/Output/JSCalculator.gif)
+[(Back to top)](#program-list)
