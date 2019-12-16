@@ -72,3 +72,5 @@ The add book window is the home window of this application with a full backgroun
 2. Notifies with a message box if a book that you are trying to add already exists in the database
 3. Provides basic information of what ISBN is in case the user doesn't know
 4. A Clear button that lets you clear all the form fields after a book is added to the database successfully 
+
+Following shows the complete working of the *Book Management System Application*
