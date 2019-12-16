@@ -76,9 +76,9 @@ The add book window is the home window of this application with a full backgroun
 Following shows the complete working of the *Book Management System Application*
 
 <div align="center">
-  <a href="https://github.com/somrajchowdhury/WebLab/blob/master/Program%201%20-%20JSCalculator.html">
-    <img src="https://github.com/somrajchowdhury/WebLab/blob/master/Output/JSCalculator.gif"
-      alt="JSCalci" />
+  <a href=#>
+    <img src="https://i.imgur.com/EkdUSVP.gifv"
+      alt="bms working" />
   </a>
 </div>
 
