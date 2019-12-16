@@ -49,6 +49,8 @@ Learn and code out most of the button types in tkinter.
 
 ## Book Management System
 
+This Book Management System is a CRUD (Create, Read, Update and Delete) application with a feature to search for books in the database. This application is supported with form validations and info messages as you use the various features of the application.
+
 ### Developed using :
 
 - Python 3.7.0 <img src='https://i.imgur.com/QbZcwbk.png' width=20>
