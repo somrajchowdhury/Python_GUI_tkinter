@@ -125,6 +125,10 @@ If the entered movie is not found, it is notified in the GUI using a *validation
 
 ![not found](https://i.imgur.com/ZzvzpUW.png)
 
+Also, at times there might be some issues connecting to the API service, in that case you get a *message* to resumbit, where you just need to click the `SUBMIT` button again
+
+![resubmit](https://i.imgur.com/8feFmAK.png)
+
 *Some more screenshots*
 
 | ![harry potter](https://i.imgur.com/5gggJ2Y.png) | ![stranger things](https://i.imgur.com/OLSyySN.png) |
