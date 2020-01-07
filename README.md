@@ -46,7 +46,10 @@ Learn and code out most of the button types in tkinter.
 >
 > ![tkinter buttons1](https://github.com/somrajchowdhury/Python_GUI_tkinter/blob/master/img/tkinterButtons1.png "tkinter buttons1")
 >
+
 [(Back to top)](#program-list)
+
+---
 
 ## Book Management System
 
@@ -71,6 +74,8 @@ The add book window is the home window of this application with a full backgroun
 2. Notifies with a message box if a book that you are trying to add already exists in the database
 3. Provides basic information of what ISBN is in case the user doesn't know
 4. A Clear button that lets you clear all the form fields after a book is added to the database successfully 
+
+[(Back to top)](#program-list)
 
 ---
 
