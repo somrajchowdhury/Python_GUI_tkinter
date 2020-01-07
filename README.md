@@ -78,6 +78,10 @@ The add book window is the home window of this application with a full backgroun
 
 *The Movie Place!* application uses an API to extract movie data using URL requests and displays the relevant retrieved data from the API on to the GUI.
 
+### API used:
+
+The **OMDb** API is a RESTful web service to obtain movie information. By default all OMDb API responses are formatted as JSON. However, OMDb API also supports responses formatted as XML.
+
 ### Libraries used:
 
 - **tkinter** - *to design the GUI*
@@ -108,8 +112,8 @@ If the entered movie is not found, it is notified in the GUI using a *validation
 
 *Some more screenshots*
 
-![harry potter](https://i.imgur.com/5gggJ2Y.png)
-
-![stranger things](https://i.imgur.com/OLSyySN.png)
+| ![harry potter](https://i.imgur.com/5gggJ2Y.png) | ![stranger things](https://i.imgur.com/OLSyySN.png) |
+|:--:|:--:|
+| ![uri](https://i.imgur.com/AUSQp2X.png) | ![3 idiots](https://i.imgur.com/L2n0ZbD.png) |
 
 [(Back to top)](#program-list)
