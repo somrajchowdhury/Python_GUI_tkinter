@@ -35,7 +35,7 @@
 
 - [Buttons in tkinter](#buttons-in-tkinter)
 - [Book Management System](#book-management-system)
-- [The Movie Place!](#the-movie-place!)
+- [The Movie Place](#the-movie-place)
 
 ## Buttons in tkinter
 
@@ -79,7 +79,7 @@ The add book window is the home window of this application with a full backgroun
 
 ---
 
-## The Movie Place!
+## The Movie Place
 
 *The Movie Place!* application uses an API to extract movie data using URL requests and displays the relevant retrieved data from the API on to the GUI.
 
