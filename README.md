@@ -35,6 +35,7 @@
 
 - [Buttons in tkinter](#buttons-in-tkinter)
 - [Book Management System](#book-management-system)
+- [The Movie Place!](#the-movie-place!)
 
 ## Buttons in tkinter
 
@@ -57,8 +58,6 @@ This Book Management System is a CRUD (Create, Read, Update and Delete) applicat
 - tKinter (Tcl/Tk 8.6) <img src='https://i.imgur.com/fkNo1xh.png' width=20>
 - SQLite3 3.21.0 <img src='https://i.imgur.com/n1Wjdv4.png' width=20>
 
----
-
 ### Screenshots :camera: :
 
 | ![Add Book Window.png](https://i.imgur.com/t6e4sq9.png) | ![View Book Details Window.png](https://i.imgur.com/4n7mb6V.png) |
@@ -73,12 +72,44 @@ The add book window is the home window of this application with a full backgroun
 3. Provides basic information of what ISBN is in case the user doesn't know
 4. A Clear button that lets you clear all the form fields after a book is added to the database successfully 
 
-Following shows the complete working of the *Book Management System Application*
+---
 
-<div align="center">
-   <video width="320" height="240" controls>
-      <source src="https://github.com/somrajchowdhury/Python_GUI_tkinter/blob/master/bms/test1.webm" type="video/webm">
-   </video> 
-</div>
+## The Movie Place!
+
+*The Movie Place!* application uses an API to extract movie data using URL requests and displays the relevant retrieved data from the API on to the GUI.
+
+### Libraries used:
+
+- **tkinter** - *to design the GUI*
+- **pillow (PIL)** - *to make images compatible with tk GUI*
+- **io** - *to encode and use images from URL*
+- **requests** - *to request and read data from the API response*
+- **urllib** - *to request and read data from the API response*
+- **socket** - *to configure connections*
+- **json** - *to load and retrieve required fields from the API response*
+
+### Screenshots :camera: :
+
+The first window that shows up is where you enter the name of the movie whose info you want to display on the GUI.
+
+![enter movie name.png](https://i.imgur.com/VV3UFUL.png)
+
+Suppose I enter **avatar** in the entry field,
+
+![enter avatar](https://i.imgur.com/X9tKG55.png)
+
+If the movie is found, the response is sent and the GUI looks like this,
+
+![avatar](https://i.imgur.com/xoRt4u4.png)
+
+If the entered movie is not found, it is notified in the GUI using a *validation message*,
+
+![not found](https://i.imgur.com/ZzvzpUW.png)
+
+*Some more screenshots*
+
+![harry potter](https://i.imgur.com/5gggJ2Y.png)
+
+![stranger things](https://i.imgur.com/OLSyySN.png)
 
 [(Back to top)](#program-list)
