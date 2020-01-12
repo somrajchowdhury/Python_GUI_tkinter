@@ -79,11 +79,9 @@ This Book Management System is a CRUD (Create, Read, Update and Delete) applicat
 |:--:|
 | **_Update Book Window_** |
 
-The add book window is the home window of this application with a full background image. This window consists of the add book form which has the following features:
-1. Notifies user when adding a book if all the fields are not filled
-2. Notifies with a message box if a book that you are trying to add already exists in the database
-3. Provides basic information of what ISBN is in case the user doesn't know
-4. A Clear button that lets you clear all the form fields after a book is added to the database successfully 
+Click the button below to see the working and features of the application.
+
+**Link :** <kbd>[Book Management System](https://protected-stream-65012.herokuapp.com/)</kbd>
 
 [(Back to top)](#program-list)
 
