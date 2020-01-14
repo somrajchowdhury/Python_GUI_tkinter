@@ -94,6 +94,8 @@ Click the button below to see the working and features of the application.
 
 ### API used:
 
+![OMDb API](https://i.imgur.com/dXPGYfZ.png)
+
 The **OMDb** API is a RESTful web service to obtain movie information. By default all OMDb API responses are formatted as JSON. However, OMDb API also supports responses formatted as XML.
 
 ### Libraries used:
@@ -143,7 +145,8 @@ Also, at times there might be some issues connecting to the API service, in that
 *The Weather App* uses an API to obtain current weather data using URL requests and displays the relevant retrieved data from the API on to the GUI.
 
 ### API used:
-**OpenWeather** API
+
+![OW API](https://i.imgur.com/mhQ2HUb.png)
 
 - Access current weather data for any location including over 200,000 cities
 - Current weather is frequently updated based on global models and data from more than 40,000 weather stations
