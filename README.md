@@ -162,3 +162,9 @@ Also, at times there might be some issues connecting to the API service, in that
 
 ### Working of *The Weather App*
 
+![The Weather App](https://github.com/somrajchowdhury/Python_GUI_tkinter/blob/master/img/owapiapp.gif "Weather App working")
+
+### Screenshots :camera: :
+
+| ![england](https://i.imgur.com/REdhBTl.png) | ![durban](https://i.imgur.com/S3KGbFs.png) | ![mysore](https://i.imgur.com/ckSqRNJ.png) |
+|:--:|:--:|:--:|
