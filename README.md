@@ -36,6 +36,7 @@
 - [Buttons in tkinter](#buttons-in-tkinter)
 - [Book Management System](#book-management-system)
 - [The Movie Place](#the-movie-place)
+- [The Weather App](#the-weather-app)
 
 ## Buttons in tkinter
 
@@ -134,3 +135,30 @@ Also, at times there might be some issues connecting to the API service, in that
 | ![uri](https://i.imgur.com/AUSQp2X.png) | ![3 idiots](https://i.imgur.com/L2n0ZbD.png) |
 
 [(Back to top)](#program-list)
+
+---
+
+## The Weather App
+
+*The Weather App* uses an API to obtain current weather data using URL requests and displays the relevant retrieved data from the API on to the GUI.
+
+### API used:
+**OpenWeather** API
+
+- Access current weather data for any location including over 200,000 cities
+- Current weather is frequently updated based on global models and data from more than 40,000 weather stations
+- Data is available in JSON, XML, or HTML format
+- Available for Free and all other paid accounts
+
+### Libraries used:
+
+- **tkinter** - *to design the GUI*
+- **pillow (PIL)** - *to make images compatible with tk GUI*
+- **io** - *to encode and use images from URL*
+- **requests** - *to request and read data from the API response*
+- **urllib** - *to request and read data from the API response*
+- **socket** - *to configure connections*
+- **json** - *to load and retrieve required fields from the API response*
+
+### Working of *The Weather App*
+
