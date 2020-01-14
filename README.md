@@ -162,6 +162,24 @@ Also, at times there might be some issues connecting to the API service, in that
 
 ### Working of *The Weather App*
 
+The first window that shows up is where you enter the name of the location.
+
+![first window](https://i.imgur.com/Mc0RMfp.png)
+
+If the location is found in the API, the weather data is returned.
+
+![weather data](https://i.imgur.com/JIqOGDM.png)
+
+If the location you entered is not found, the GUI shows a relevant message.
+
+![not found](https://i.imgur.com/XS15DXW.png)
+
+Also, at times there might be some issues connecting to the API service, in that case you get a *message* to resumbit, where you just need to click the `Submit` button again.
+
+![resubmit](https://i.imgur.com/7b47Z5O.png)
+
+The following shows a working example of *The Weather App*
+
 ![The Weather App](https://github.com/somrajchowdhury/Python_GUI_tkinter/blob/master/img/owapiapp.gif "Weather App working")
 
 ### Screenshots :camera: :
