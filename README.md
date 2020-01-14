@@ -186,3 +186,5 @@ The following shows a working example of *The Weather App*
 
 | ![england](https://i.imgur.com/REdhBTl.png) | ![durban](https://i.imgur.com/S3KGbFs.png) | ![mysore](https://i.imgur.com/ckSqRNJ.png) |
 |:--:|:--:|:--:|
+
+[(Back to top)](#program-list)
